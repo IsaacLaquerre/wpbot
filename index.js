@@ -13,7 +13,7 @@ const dateFormat = require("dateformat");
 const { inspect } = require("util");
 const { getName } = require("country-list");
 //The bot's token to login to Discord
-var TOKEN = "NjY1NzcwMDc1NjE3NDkzMDIy.Xhqczg.AX1HWyPssiOTAMk7fUir6cChLoM";
+var TOKEN = "REDACTED";
 //Change the prefix here
 var PREFIX = "$";
 //GIF Emote imitating a loading symbol for convenience
